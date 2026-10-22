@@ -1,0 +1,15 @@
+{
+  "Trainer XYZ muss auf die Tribüne": {
+    "Miron Muslić (S04)": false,
+    "Carles Martínez (B04)": false,
+    "Alexander Blessin (BMG)": false,
+    "Vincent Wagner (SVE)": false
+  },
+  "Trainer XYZ wird entlassen": {
+    "Martín Demichelis (RBL)": false,
+    "Mauro Lustrinelli (FCU)": false,
+    "Merlin Polzin (HSV)": false,
+    "Christian Ilzer (TSG)": false
+  },
+  "custom_overrides": {}
+}

@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.agents/
+.claude/
+data/fig_bingo.jpg

@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache & build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit secrets (NEVER commit secrets!)
+.streamlit/secrets.toml
+
+# Streamlit & Agent local skills/caches
+.agents/
+.claude/
+.streamlit/cache/
+
+# Raw image (keep repo clean and lightweight)
+data/fig_bingo.jpg
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
